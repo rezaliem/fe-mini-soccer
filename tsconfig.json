@@ -1,0 +1,14 @@
+{
+  // https://v3.nuxtjs.org/concepts/typescript
+  "extends": "./.nuxt/tsconfig.json",
+
+  "compilerOptions": {
+    "types": ["naive-ui/volar", "unplugin-icons/types/vue", "node"],
+    "module": "es2022",
+    "moduleResolution": "Node"
+  },
+
+  "vueCompilerOptions": {
+    "experimentalDisableTemplateSupport": true
+  }
+}

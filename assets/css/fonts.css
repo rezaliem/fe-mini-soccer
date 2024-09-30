@@ -1,0 +1,27 @@
+@font-face {
+  font-family: 'comfortaa';
+  font-style: normal;
+  font-display: swap;
+  src: url('~/assets/fonts/Comfortaa-VariableFont_wght.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'great-vibes';
+  font-style: normal;
+  font-display: swap;
+  src: url('~/assets/fonts/GreatVibes-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'quicksand';
+  font-style: normal;
+  font-display: swap;
+  src: url('~/assets/fonts/Quicksand-VariableFont_wght.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'belanosima';
+  font-style: normal;
+  font-display: swap;
+  src: url('~/assets/fonts/Belanosima-Regular.ttf') format('truetype');
+}
