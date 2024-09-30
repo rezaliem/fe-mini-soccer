@@ -1,11 +1,11 @@
 {
   "private": true,
   "scripts": {
-    "build": "nuxt build",
-    "dev": "nuxt dev --port=3001",
-    "generate": "nuxt generate",
+    "build": "yarn build",
+    "dev": "yarn dev --port=3001",
+    "generate": "yarn generate",
     "start": "node .output/server/index.mjs",
-    "preview": "nuxt preview",
+    "preview": "yarn preview",
     "prepare": "husky install"
   },
   "devDependencies": {
